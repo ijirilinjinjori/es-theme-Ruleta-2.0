@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>CAMBIAR VISTA EN SISTEMA</systemViewName>
+<cambiar-logos-en-carruselName>CAMBIAR LOGOS EN CARRUSEL</cambiar-logos-en-carruselName>
+<informacionsystemName>CAMBIAR IDIOMA DE DESCRIPCION</informacionsystemName>
+<mostra-personajesName>MOSTRAR PERSONAJES</mostra-personajesName>
+</variables>
+</theme>

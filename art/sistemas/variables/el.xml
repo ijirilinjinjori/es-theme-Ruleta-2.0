@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>ΑΛΛΑΓΗ ΠΡΟΒΟΛΗ ΣΤΟ ΣΥΣΤΗΜΑ</systemViewName>
+<cambiar-logos-en-carruselName>ΑΛΛΑΓΗ ΛΟΓΟΤΥΠΩΝ ΣΕ ΚΑΡΟΥΖΕΛ</cambiar-logos-en-carruselName>
+<informacionsystemName>ΑΛΛΑΓΗ ΓΛΩΣΣΑΣ ΠΕΡΙΓΡΑΦΗΣ</informacionsystemName>
+<mostra-personajesName>ΔΕΙΞΤΕ ΧΑΡΑΚΤΗΡΕΣ</mostra-personajesName>
+</variables>
+</theme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>ENDRE VISNING I SYSTEM</systemViewName>
+<cambiar-logos-en-carruselName>ENDRE LOGOER I KARUSELL</cambiar-logos-en-carruselName>
+<informacionsystemName>ENDRE BESKRIVELSES SPRÅK</informacionsystemName>
+<mostra-personajesName>VIS KARAKTER</mostra-personajesName>
+</variables>
+</theme>

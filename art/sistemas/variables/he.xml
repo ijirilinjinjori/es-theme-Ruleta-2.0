@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>שנה תצוגה במערכת</systemViewName>
+<cambiar-logos-en-carruselName>שנה לוגו בקרוסלה</cambiar-logos-en-carruselName>
+<informacionsystemName>שנה שפת תיאור</informacionsystemName>
+<mostra-personajesName>הצג תווים</mostra-personajesName>
+</variables>
+</theme>

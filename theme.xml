@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Peso Del Tema 897,409,988 bytes
+Theme Weight  897,409,988 bytes
+-->
+
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>CAMBIAR VISTA EN SISTEMA</systemViewName>
+<estilo-de-fondoName>WALLPAPER STYLE</estilo-de-fondoName>
+<informacionsystemName>CAMBIAR IDIOMA DE DESCRIPCION</informacionsystemName>
+<mostra-personajesName>MOSTRAR PERSONAJES</mostra-personajesName>
+<subset.aplicar-sonido-en-carrusel>SOUND NAVOGATION</subset.aplicar-sonido-en-carrusel>
+</variables>
+
+
+<!-- LENGUAJES (VARIABLES) -->
+<include lang="ar">./art/sistemas/variables/ar.xml</include>
+<include lang="ca">./art/sistemas/variables/ca.xml</include>
+<include lang="cy_GB">./art/sistemas/variables/cy_GB.xml</include>
+<include lang="cy">./art/sistemas/variables/cy.xml</include>
+<include lang="cz">./art/sistemas/variables/cz.xml</include>
+<include lang="de">./art/sistemas/variables/de.xml</include>
+<include lang="el">./art/sistemas/variables/el.xml</include>
+<include lang="en">./art/sistemas/variables/en.xml</include>
+<include lang="es_MX">./art/sistemas/variables/es_MX.xml</include>
+<include lang="es">./art/sistemas/variables/es.xml</include>
+<include lang="eu_ES">./art/sistemas/variables/eu_ES.xml</include>
+<include lang="eu">./art/sistemas/variables/eu.xml</include>
+<include lang="fr">./art/sistemas/variables/fr.xml</include>
+<include lang="he">./art/sistemas/variables/he.xml</include>
+<include lang="hu">./art/sistemas/variables/hu.xml</include>
+<include lang="it">./art/sistemas/variables/it.xml</include>
+<include lang="ja_JP">./art/sistemas/variables/ja_JP.xml</include>
+<include lang="ja">./art/sistemas/variables/ja.xml</include>
+<include lang="ko">./art/sistemas/variables/ko.xml</include>
+<include lang="nb_NO">./art/sistemas/variables/nb_NO.xml</include>
+<include lang="nb">./art/sistemas/variables/nb.xml</include>
+<include lang="nl">./art/sistemas/variables/nl.xml</include>
+<include lang="nn_NO">./art/sistemas/variables/nn_NO.xml</include>
+<include lang="oc_FR">./art/sistemas/variables/oc_FR.xml</include>
+<include lang="oc">./art/sistemas/variables/oc.xml</include>
+<include lang="pl">./art/sistemas/variables/pl.xml</include>
+<include lang="pt_BR">./art/sistemas/variables/pt_BR.xml</include>
+<include lang="pt">./art/sistemas/variables/pt.xml</include>
+<include lang="ru_RU">./art/sistemas/variables/ru_RU.xml</include>
+<include lang="ru">./art/sistemas/variables/ru.xml</include>
+<include lang="se">./art/sistemas/variables/se.xml</include>
+<include lang="sv_SE">./art/sistemas/variables/sv_SE.xml</include>
+<include lang="sv">./art/sistemas/variables/sv.xml</include>
+<include lang="tr">./art/sistemas/variables/tr.xml</include>
+<include lang="uk_UA">./art/sistemas/variables/uk_UA.xml</include>
+<include lang="uk">./art/sistemas/variables/uk.xml</include>
+<include lang="zh_CN">./art/sistemas/variables/zh_CN.xml</include>
+<include lang="zh">./art/sistemas/variables/zh.xml</include>
+<include lang="zh_TW">./art/sistemas/variables/zh_TW.xml</include>
+
+  
+<!--  Modos de Vistas en sistema -->
+<subset name="systemview" displayName="${systemViewName}">
+<include name="MULTICOLOR">./art/sistemas/systemview/multicolor.xml</include>
+<include name="RULETA Y MIN VIDEO">./art/sistemas/systemview/ruleta y minivideo.xml</include>
+<include name="CARRUSEL Y VIDEO REDONDO">./art/sistemas/systemview/carrusel y video redondo.xml</include>
+<include name="RULETA Y VIDEO CUADRADO">./art/sistemas/systemview/ruletayvideocuadrado.xml</include>
+<include name="CARRUSEL Y VIDEO EN CARRUSEL">./art/sistemas/systemview/carrusel y video en carrusel.xml</include>
+<include name="RULETA Y VIDEO GIRADO">./art/sistemas/systemview/ruleta y video girado.xml</include>
+<include name="CARRUSEL Y VIDEO EN LOGO">./art/sistemas/systemview/carrusel y video logo.xml</include>
+<include name="RULETA Y VIDEO EN RING">./art/sistemas/systemview/ruleta y video en ring.xml</include>
+<include name="VERTICAL">./art/sistemas/systemview/vertical.xml</include>
+<include name="HORIZONTAL">./art/sistemas/systemview/horizontal.xml</include>
+<include name="VERTICAL RANDOM VIDEO FULL SCREEN">./art/sistemas/systemview/vertical rando full screen.xml</include>
+<include name="HORIZONTAL 3 LOGOS">./art/sistemas/systemview/horizontal3logos.xml</include>
+<include name="ANILLO GRANDE">./art/sistemas/systemview/anillogrande.xml</include>
+<include name="ANILLO GRANDE 2">./art/sistemas/systemview/anillogrande2.xml</include>
+<include name="RULETA CHICA SIMPLE">./art/sistemas/systemview/ruletachicasimple.xml</include>
+<include name="BEZEL">./art/sistemas/systemview/bezel.xml</include>
+<include name="FAKE">./art/sistemas/systemview/fake.xml</include>
+</subset>
+
+
+<!-- --------------------------------------- ((( TIPO DE FONDO DE WALLPAPER ))) -------------------------------- -->
+ <subset name="estilo-de-fondo" displayName="${estilo-de-fondoName}">
+<include name="BLUR" displayName="${yes}">./art/sistemas/storyboards/blur.xml</include>
+<include name="ACCI ART" displayName="${yes}">./art/sistemas/storyboards/acii.xml</include>
+<include name="NORMAL" displayName="${yes}">./art/sistemas/storyboards/normal.xml</include>
+</subset>
+
+ 
+<!-- --------------------------------------- ((( MOSTRAR PERSONAJES ))) -------------------------------- -->
+<subset name="mostra-personajes" displayName="${mostra-personajesName}">
+<include name="NO (Por Defecto)" displayName="${yes}">./art/sistemas/storyboards/no Activate characters.xml</include>
+<include name="YES" displayName="${yes}">./art/sistemas/storyboards/characters.xml</include>
+</subset>
+
+
+
+<!--Show  Info-->
+ <subset name="informacionsystem" displayName="${informacionsystemName}">
+<include name="Español  (Por Defecto)" displayName="${yes}">./art/sistemas/infosys/es/${system.theme}.xml</include>
+<include name="Italiano" displayName="${yes}">./art/sistemas/infosys/it/${system.theme}.xml</include>
+<include name="Frances" displayName="${yes}">./art/sistemas/infosys/fr/${system.theme}.xml</include>
+<include name="Portuges" displayName="${yes}">./art/sistemas/infosys/pt/${system.theme}.xml</include>
+<include name="Ingles" displayName="${yes}">./art/sistemas/infosys/en/${system.theme}.xml</include>
+</subset>
+
+
+<!-- --------------------------------------- ((( OPCIONES DE SONIDO SISTEMA Y GAMELIST ))) -------------------------------- -->
+
+<!-- sonidos en sistema-->
+<subset name="aplicar-sonido-en-carrusel" displayName="${subset.aplicar-sonido-en-carrusel}">
+<include name="˙DEFAULT">./art/sistemas/sonidos/sounds navigation/beep_11.xml</include>
+<include name="˙Ninguno" displayName="${none}"/>
+<include name="˙dkJump">./art/sistemas/sonidos/sounds navigation/dkjump.xml</include>
+<include name="˙smwactivated">./art/sistemas/sonidos/sounds navigation/smw activated.xml</include>
+<include name="˙basic">./art/sistemas/sonidos/sounds navigation/basic.xml</include>
+<include name="˙beep_4">./art/sistemas/sonidos/sounds navigation/beep_4.xml</include>
+<include name="˙beep_5">./art/sistemas/sonidos/sounds navigation/beep_5.xml</include>
+<include name="˙beep_9">./art/sistemas/sonidos/sounds navigation/beep_9.xml</include>
+<include name="˙beep_12">./art/sistemas/sonidos/sounds navigation/beep_12.xml</include>
+<include name="˙beep_13">./art/sistemas/sonidos/sounds navigation/beep_13.xml</include>
+<include name="˙beep_19">./art/sistemas/sonidos/sounds navigation/beep_19.xml</include>
+<include name="˙beep_20">./art/sistemas/sonidos/sounds navigation/beep_20.xml</include>
+<include name="˙beep_21">./art/sistemas/sonidos/sounds navigation/beep_21.xml</include>
+<include name="˙highlight">./art/sistemas/sonidos/sounds navigation/highlight.xml</include>
+<include name="˙keyok2">./art/sistemas/sonidos/sounds navigation/keyok2.xml</include>
+<include name="˙keyok3">./art/sistemas/sonidos/sounds navigation/keyok3.xml</include>
+<include name="˙keyok5">./art/sistemas/sonidos/sounds navigation/keyok5.xml</include>
+<include name="˙lm_coin">./art/sistemas/sonidos/sounds navigation/lm_coin.xml</include>
+<include name="˙lm_ghost">./art/sistemas/sonidos/sounds navigation/lm_ghost.xml</include>
+<include name="˙load">./art/sistemas/sonidos/sounds navigation/load.xml</include>
+<include name="˙mb_jump">./art/sistemas/sonidos/sounds navigation/mb_jump.xml</include>
+<include name="˙mb_sc">./art/sistemas/sonidos/sounds navigation/mb_sc.xml</include>
+<include name="˙mb_touch">./art/sistemas/sonidos/sounds navigation/mb_touch.xml</include>
+<include name="˙no_damage">./art/sistemas/sonidos/sounds navigation/no_damage.xml</include>
+<include name="˙nsmb_pause">./art/sistemas/sonidos/sounds navigation/nsmb_pause.xml</include>
+<include name="˙romulan_beep1">./art/sistemas/sonidos/sounds navigation/romulan_beep1.xml</include>
+<include name="˙scroll">./art/sistemas/sonidos/sounds navigation/scroll.xml</include>
+<include name="˙scroll2">./art/sistemas/sonidos/sounds navigation/scroll2.xml</include>
+<include name="˙scroll3">./art/sistemas/sonidos/sounds navigation/scroll3.xml</include>
+<include name="˙smb3_map_travel">./art/sonidos/sistemas/sounds navigation/smb3_map_travel.xml</include>
+<include name="˙smw_1-up">./art/sistemas/sonidos/sounds navigation/smw_1-up.xml</include>
+<include name="˙smw_coin">./art/sistemas/sonidos/sounds navigation/smw_coin.xml</include>
+<include name="˙smw_fireball">./art/sistemas/sonidos/sounds navigation/smw_fireball.xml</include>
+<include name="˙smw_kick">./art/sistemas/sonidos/sounds navigation/smw_kick.xml</include>
+<include name="˙smw_stomp">./art/sistemas/sonidos/sounds navigation/smw_stomp.xml</include>
+<include name="˙systemsound">./art/sistemas/sonidos/sounds navigation/systemsound.xml</include>
+</subset>
+
+
+
+  
+
+<!-- --------------------------------------- ((( MENU ))) -------------------------------- -->
+<view name="menu">
+<menuText name="menutitle">
+<fontPath>./art/sistemas/fuentes/dash_dot_square-7.ttf</fontPath>
+<fontSize>0.020</fontSize>
+<color>ffffff</color>
+</menuText>
+
+<menuText name="menufooter">
+<fontPath>./art/sistemas/fuentes/dash_dot_square-7.ttf</fontPath>
+<fontSize>0.02</fontSize>
+<color>ffffff</color>
+</menuText>
+
+<menuText name="menutext">
+<fontPath>./art/sistemas/fuentes/dash_dot_square-7.ttf</fontPath>
+<fontSize>0.020</fontSize>
+<color>ffffff</color>
+<separatorColor>cecdcf</separatorColor>
+<selectorColor>e4e4e3</selectorColor>
+<selectorColorEnd>838284</selectorColorEnd>
+<selectedColor>000000</selectedColor>
+<selectorGradientType>horizontal</selectorGradientType>
+</menuText>
+
+<menuTextSmall name="menutextsmall">
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<fontSize>0.02</fontSize>
+<color>24c6dd</color>
+</menuTextSmall>
+
+<menuBackground name="menubg">
+<color>c5bdb2</color>
+<cornerSize>32 32</cornerSize>
+<path>./art/sistemas/fondos/menu2.png</path>
+</menuBackground>
+
+<menuIcons name="menuicons">
+<iconKodi>./art/sistemas/icons/Kodi.png</iconKodi>
+<iconSystem>./art/sistemas/icons/System.png</iconSystem>
+<iconUpdates>./art/sistemas/icons/Updates.png</iconUpdates>
+<iconGames>./art/sistemas/icons/Games.png</iconGames>
+<iconControllers>./art/sistemas/icons/Controllers.png</iconControllers>
+<iconUI>./art/sistemas/icons/UI.png</iconUI>
+<iconSound>./art/sistemas/icons/Sound.png</iconSound>
+<iconNetwork>./art/sistemas/icons/Network.png</iconNetwork>
+<iconScraper>./art/sistemas/icons/Scraper.png</iconScraper>
+<iconAdvanced>./art/sistemas/icons/Advanced.png</iconAdvanced>
+<iconQuit>./art/sistemas/icons/Quit.png</iconQuit>
+<iconRestart>./art/sistemas/icons/Restart.png</iconRestart>
+<iconShutdown>./art/sistemas/icons/Shutdown.png</iconShutdown>
+<iconFastShutdown>./art/sistemas/icons/Fastshutdown.png</iconFastShutdown>
+<iconRetroachievements>./art/sistemas/icons/Contest.png</iconRetroachievements>
+<iconManual>./art/sistemas/icons/Manual.png</iconManual>
+</menuIcons>
+<menuTextEdit name="menutextedit">
+<inactive>./art/textinput_ninepatch.png</inactive>
+<active>./art/textinput_ninepatch_active.png</active>
+</menuTextEdit>
+</view>
+
+
+
+
+
+
+<!--------------------------- Pantalla por encima de todo------------------------------------- -->
+<view name="screen">
+<text name="clock">
+<textColor>777777FF</textColor>
+<fontSize>0.035</fontSize>
+<pos>0.90 0.94</pos>
+<size>0.09 0.058</size>
+<fontSize>0.020</fontSize>
+<alignment>right</alignment>
+<verticalAlignment>center</verticalAlignment>
+</text>
+<controllerActivity name="controllerActivity">
+<pos>0.01 0.01</pos>
+<size>0.085 0.025</size>
+<itemSpacing>0.003</itemSpacing>
+<imagePath>./art/gamepad.svg</imagePath>
+<color>ffffff</color>
+<activityColor>9abb34</activityColor>
+<hotkeyColor>516513</hotkeyColor>
+</controllerActivity>
+</view>
+  
+  <!---------------------------  VISTAS EN LISTA DE JUEGOS----------------------- -->
+<include name="gamecarousel">./art/sistemas/vista-lista-juegos/gamecarousel.xml</include>
+<include name="DETALLADO">./art/sistemas/vista-lista-juegos/basic.xml</include>
+<include name="BASIC">./art/sistemas/vista-lista-juegos/detalle.xml</include>
+<include name="GRID">./art/sistemas/vista-lista-juegos/grid.xml</include>
+<include name="CAROUSEL">./art/sistemas/vista-lista-juegos/carrusel.xml</include>
+<include name="CARRUSEL DETALLADO">./art/sistemas/vista-lista-juegos/carruseldetallado.xml</include>
+<include name="CARRUSEL DETALLADO 2">./art/sistemas/vista-lista-juegos/carruseldetallado2.xml</include>
+<include name="CARRUSEL DETALLADO 3">./art/sistemas/vista-lista-juegos/carruseldetallado3.xml</include>
+<include name="GAMECARRUSEL MD _ IMAGEN">./art/sistemas/vista-lista-juegos/gamecarruselmdimagen.xml</include>
+<include name="HORIZONTAL">./art/sistemas/vista-lista-juegos/horizontal.xml</include>
+<include name="BEZEL">./art/sistemas/vista-lista-juegos/bezel.xml</include>
+</theme>

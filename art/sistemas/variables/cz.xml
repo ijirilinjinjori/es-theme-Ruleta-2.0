@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>ZMĚNA ZOBRAZENÍ V SYSTÉMU</systemViewName>
+<cambiar-logos-en-carruselName>ZMĚNA LOGA V KARUSELU</cambiar-logos-en-carruselName>
+<informacionsystemName>ZMĚŇTE JAZYK POPISU</informacionsystemName>
+<mostra-personajesName>ZOBRAZIT POSTAVY</mostra-personajesName>
+</variables>
+</theme>

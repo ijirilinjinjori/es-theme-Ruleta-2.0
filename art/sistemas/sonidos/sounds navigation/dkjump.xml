@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system,basic,detailed,gridcarousel,gamecarousel">
+<carousel name="systemcarousel">
+<scrollSound>./art/sistemas/sonidos/dk-a2600_jump.wav</scrollSound>
+</carousel>
+</view>
+
+<view name="basic, detailed, grid, Carousel, gamecarousel">
+<imagegrid name="gamegrid">
+<scrollSound>./art/sistemas/sonidos/dk-a2600_jump.wav</scrollSound>
+</imagegrid>
+
+<textlist name="gamelist">
+<scrollSound>./art/sistemas/sonidos/dk-a2600_jump.wav</scrollSound>
+</textlist>
+
+<gamecarousel name="gamecarousel">
+<scrollSound>./art/sistemas/sonidos/dk-a2600_jump.wav</scrollSound>
+</gamecarousel> 
+</view>
+</theme>

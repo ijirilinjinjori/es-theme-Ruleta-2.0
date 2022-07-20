@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>IKUSPEGIA ALDATU SISTEMAN</systemViewName>
+<cambiar-logos-en-carruselName>KARUSELAN LOGOA ALDATZEN</cambiar-logos-en-carruselName>
+<informacionsystemName>DESKRIBAPEN HIZKUNTZA ALDATU</informacionsystemName>
+<mostra-personajesName>PERTSONAIAK ERAKUTSI</mostra-personajesName>
+</variables>
+</theme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system, basic, detailed, grid carousel, gamecarousel">
+
+<image name="background3" extra="true">
+<path>./art/sistemas/wall/Blur/default.png</path>
+<path>./art/sistemas/wall/Blur/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+</image>
+
+</view>
+</theme>
+

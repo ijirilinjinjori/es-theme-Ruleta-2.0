@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>عرض التغيير في النظام</systemViewName>
+<cambiar-logos-en-carruselName>تغيير الشعارات في CAROUSEL</cambiar-logos-en-carruselName>
+<informacionsystemName>تغيير لغة الوصف</informacionsystemName>
+<mostra-personajesName>عرض الشخصيات</mostra-personajesName>
+</variables>
+</theme>

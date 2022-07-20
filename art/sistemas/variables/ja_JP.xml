@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>システムのビューを変更する</systemViewName>
+<cambiar-logos-en-carruselName>CAROUSELのロゴを変更する</cambiar-logos-en-carruselName>
+<informacionsystemName>説明言語の変更</informacionsystemName>
+<mostra-personajesName>キャラクターを表示</mostra-personajesName>
+</variables>
+</theme>

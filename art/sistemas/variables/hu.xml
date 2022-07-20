@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>NÉZET MÓDOSÍTÁSA A RENDSZERBEN</systemViewName>
+<cambiar-logos-en-carruselName>LOGÓK MÓDOSÍTÁSA A KARUSELBEN</cambiar-logos-en-carruselName>
+<informacionsystemName>A LEÍRÁS NYELV MÓDOSÍTÁSA</informacionsystemName>
+<mostra-personajesName>MUTASD MEG A KARAKTEREKET</mostra-personajesName>
+</variables>
+</theme>

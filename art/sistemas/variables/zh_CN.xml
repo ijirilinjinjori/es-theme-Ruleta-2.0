@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>更改系统视图</systemViewName>
+<cambiar-logos-en-carruselName>在轮播中更改徽标</cambiar-logos-en-carruselName>
+<informacionsystemName>更改描述语言</informacionsystemName>
+<mostra-personajesName>显示字符</mostra-personajesName>
+</variables>
+</theme>

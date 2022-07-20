@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>시스템에서 보기 변경</systemViewName>
+<cambiar-logos-en-carruselName>캐러셀에서 로고 변경</cambiar-logos-en-carruselName>
+<informacionsystemName>설명 언어 변경</informacionsystemName>
+<mostra-personajesName>캐릭터 표시</mostra-personajesName>
+</variables>
+</theme>

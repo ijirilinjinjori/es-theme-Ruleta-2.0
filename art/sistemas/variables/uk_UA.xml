@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>ЗМІНИТИ ПОГЛЯД В СИСТЕМІ</systemViewName>
+<cambiar-logos-en-carruselName>ЗМІНИТИ ЛОГОТИП У КАРУСЕЛІ</cambiar-logos-en-carruselName>
+<informacionsystemName>ЗМІНИТИ МОВУ ОПИСУ</informacionsystemName>
+<mostra-personajesName>ПОКАЗАТЬ ПЕРСОНАЖІВ</mostra-personajesName>
+</variables>
+</theme>

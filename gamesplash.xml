@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="splash">
+		
+<image name="background">
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<path>./art/sistemas/fondos/gamesplash.png</path>
+<zIndex>10</zIndex>
+</image>
+
+<text name="label">
+<origin>0.05 0.5</origin>
+<pos>0.40 0.540</pos>
+<size>0.300 0.10</size>
+<alignment>center</alignment>
+<color>ffffff</color>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<fontSize>0.032</fontSize>
+<glowColor>000000</glowColor>
+<glowSize>2</glowSize>
+<glowOffset>3</glowOffset>
+<zIndex>20</zIndex>
+</text>
+</view>
+</theme>

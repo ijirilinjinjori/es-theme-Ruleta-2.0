@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SKIFT VISNING I SYSTEM</systemViewName>
+<cambiar-logos-en-carruselName>SKIFT LOGOER I KARRUSELEN</cambiar-logos-en-carruselName>
+<informacionsystemName>SKIFT BESKRIVELSE SPROG</informacionsystemName>
+<mostra-personajesName>VIS KARAKTER</mostra-personajesName>
+</variables>
+</theme>
