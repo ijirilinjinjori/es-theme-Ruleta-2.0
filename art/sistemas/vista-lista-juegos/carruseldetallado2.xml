@@ -30,7 +30,7 @@
 </text>
 
 
-<image name="fondo-video_ring,fondo-video,marco-video_ring,efecto-fondo-capa1,fondo-lista-vertical,marco-video,imagen-no-media" extra="true">
+<image name="fondo-carousel,fondo-video_ring,fondo-video,marco-video_ring,efecto-fondo-capa1,fondo-lista-vertical,marco-video,imagen-no-media" extra="true">
 <visible>false</visible>
 <color>00000000</color>
 </image>
