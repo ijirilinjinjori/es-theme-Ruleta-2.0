@@ -77,6 +77,8 @@ Theme Weight  897,409,988 bytes
 <include name="RULETA CHICA SIMPLE">./art/sistemas/systemview/ruletachicasimple.xml</include>
 <include name="BEZEL">./art/sistemas/systemview/bezel.xml</include>
 <include name="FAKE">./art/sistemas/systemview/fake.xml</include>
+
+<include name="RULETA DOWN">./art/sistemas/systemview/ruletadown.xml</include>
 </subset>
 
 
@@ -253,3 +255,9 @@ Theme Weight  897,409,988 bytes
 <include name="HORIZONTAL">./art/sistemas/vista-lista-juegos/horizontal.xml</include>
 <include name="BEZEL">./art/sistemas/vista-lista-juegos/bezel.xml</include>
 </theme>
+
+
+
+
+
+
