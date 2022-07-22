@@ -254,6 +254,8 @@ Theme Weight  897,409,988 bytes
 <include name="GAMECARRUSEL MD _ IMAGEN">./art/sistemas/vista-lista-juegos/gamecarruselmdimagen.xml</include>
 <include name="HORIZONTAL">./art/sistemas/vista-lista-juegos/horizontal.xml</include>
 <include name="BEZEL">./art/sistemas/vista-lista-juegos/bezel.xml</include>
+
+<include name="RULETA DOWN">./art/sistemas/vista-lista-juegos/ruletadown.xml</include>
 </theme>
 
 
