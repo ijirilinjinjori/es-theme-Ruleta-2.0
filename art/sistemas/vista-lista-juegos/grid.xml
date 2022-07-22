@@ -7,7 +7,7 @@
 <imagegrid name="gamegrid">
 <zIndex>81</zIndex>
 <pos>0.255 0.286</pos>
-<size>0.730 0.974</size>
+<size>0.750 0.974</size>
 <margin>0.005 0.040</margin>
 <padding>0.05 0.14 0.05 0.30</padding>
 <scrollDirection>horizontal</scrollDirection>
@@ -20,7 +20,7 @@
 <gameImage>./art/sistemas/fondos/defgamegrid.png</gameImage>
 <logoBackgroundImage>/art/fondos/deflogobk.png</logoBackgroundImage>
 <linearSmooth>true</linearSmooth>
-<zIndex>90</zIndex>
+<zIndex>51</zIndex>
 </imagegrid>
 
 <gridtile name="default">
@@ -60,11 +60,11 @@
 <image name="md_thumbnail">
 <visible>true</visible>
 <color>ffffff</color>
-<pos>0.6200 0.6190</pos>
+<pos>0.6300 0.6190</pos>
 <size>0.1655 0.5620</size>
 <origin>0.5 0.5</origin>
 <linearSmooth>true</linearSmooth>
-<zIndex>88</zIndex>
+<zIndex>49</zIndex>
 <storyboard event="open" repeat="1">
 <animation property="opacity" from="0.75" to="0" begin="0" duration="1000" repeat="2"/>
 <animation property="scale" from="1.05" to="1.4" begin="0" duration="1000" repeat="2"/>
@@ -110,7 +110,7 @@
 <origin>0 0</origin>
 <path>./art/sistemas/fondos/Degradado AmarilloNegroAzul.png</path>
 <linearSmooth>true</linearSmooth>
-<zIndex>50</zIndex>
+<zIndex>40</zIndex>
 </image> 
 
 <image name="background3" extra="true">
