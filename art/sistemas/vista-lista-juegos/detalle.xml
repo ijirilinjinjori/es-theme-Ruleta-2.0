@@ -382,5 +382,15 @@
 <color>00000000</color>
 </text>
 
+<text name="md_lbl_rating">
+<pos>2.30 0.720</pos>
+<visible>false</visible>
+<color>00000000</color>
+<fontSize>0.02</fontSize>
+</text>
+
+<rating name="md_rating">
+<pos>2.019 0.140</pos> 
+</rating>
 </view>
 </theme>

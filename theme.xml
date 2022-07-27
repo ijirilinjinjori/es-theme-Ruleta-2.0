@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-Peso Del Tema 897,409,988 bytes
-Theme Weight  897,409,988 bytes
+Peso Del Tema 992,374,817 bytes
+
 -->
 
 <theme>
@@ -79,14 +79,18 @@ Theme Weight  897,409,988 bytes
 <include name="FAKE">./art/sistemas/systemview/fake.xml</include>
 
 <include name="RULETA DOWN">./art/sistemas/systemview/ruletadown.xml</include>
+<include name="RULETA LEFT">./art/sistemas/systemview/ruletaleft.xml</include>
+<include name="DVD">./art/sistemas/systemview/dvd.xml</include>
+<include name="VERTICAL IZQUIERDA">./art/sistemas/systemview/verticalizquierda.xml</include>
+<include name="-ONLY VERTICAL SCREEN-">./art/sistemas/systemview/onlyverticalscreen.xml</include>
 </subset>
 
 
 <!-- --------------------------------------- ((( TIPO DE FONDO DE WALLPAPER ))) -------------------------------- -->
  <subset name="estilo-de-fondo" displayName="${estilo-de-fondoName}">
+<include name="NORMAL" displayName="${yes}">./art/sistemas/storyboards/normal.xml</include>
 <include name="BLUR" displayName="${yes}">./art/sistemas/storyboards/blur.xml</include>
 <include name="ACCI ART" displayName="${yes}">./art/sistemas/storyboards/acii.xml</include>
-<include name="NORMAL" displayName="${yes}">./art/sistemas/storyboards/normal.xml</include>
 </subset>
 
  
@@ -256,6 +260,10 @@ Theme Weight  897,409,988 bytes
 <include name="BEZEL">./art/sistemas/vista-lista-juegos/bezel.xml</include>
 
 <include name="RULETA DOWN">./art/sistemas/vista-lista-juegos/ruletadown.xml</include>
+<include name="RULETA LEFT">./art/sistemas/vista-lista-juegos/ruletaleft.xml</include>
+<include name="DVD">./art/sistemas/vista-lista-juegos/dvd.xml</include>
+<include name="VERTICAL IZQUIERDA">./art/sistemas/vista-lista-juegos/verticalizquierda.xml</include>
+<include name="-ONLY VERTICAL SCREEN-">./art/sistemas/vista-lista-juegos/onlyverticalscreen.xml</include>
 </theme>
 
 

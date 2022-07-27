@@ -135,6 +135,9 @@
 <path>./art/sistemas/wall/${system.theme}.png</path>
 <linearSmooth>true</linearSmooth>
 <zIndex>48</zIndex>
+<storyboard>
+<animation property="scale" to="1.4" duration="101100" begin="700" mode="easeOut" autoreverse="true" repeat="1"/>
+</storyboard>
 </image>
 
 

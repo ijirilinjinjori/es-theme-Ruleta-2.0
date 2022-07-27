@@ -355,27 +355,6 @@
 <color>f4bb0d</color>
 <unfilledColor>ffffff</unfilledColor>
 <zIndex>492</zIndex>
-<storyboard event="open">
-<animation property="opacity" from="0" to="0" duration="250" mode="easeIn"/>
-<animation property="opacity" from="0" to="1" duration="900" mode="easeIn" begin="250"/>
-<animation property="offsetY" from="0.035" to="0" duration="600" mode="easeOutCubic"/>
-</storyboard>
-<storyboard event="activateNext">
-<animation property="opacity" from="0" to="0" duration="1000" mode="easeOut"/>
-<animation property="opacity" from="0" to="1" duration="400" mode="easeOut" begin="1000"/>
-<animation property="offsetY" from="0.035" to="0" duration="600" mode="easeOutCubic" begin="1000"/>
-</storyboard>
-<storyboard event="activatePrev">
-<animation property="opacity" from="0" to="0" duration="1000" mode="easeOut"/>
-<animation property="opacity" from="0" to="1" duration="400" mode="easeOut" begin="1000"/>
-<animation property="offsetY" from="-0.035" to="0" duration="600" mode="easeOutCubic" begin="1000"/>
-</storyboard>
-<storyboard event="deactivateNext">
-<animation property="opacity" to="0" duration="1" mode="easeOut"/>
-</storyboard>
-<storyboard event="deactivatePrev">
-<animation property="opacity" to="0" duration="1" mode="easeOut"/>
-</storyboard> 
 </rating>
 
 

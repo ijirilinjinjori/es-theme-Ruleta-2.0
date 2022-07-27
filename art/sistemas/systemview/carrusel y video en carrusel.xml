@@ -172,7 +172,7 @@
 <visible>true</visible>
 <color>ffffff</color>
 <size>1 1</size>
-<pos>-0.05 0</pos>
+<pos>0 0</pos>
 <origin>0 0</origin>
 <path>./art/sistemas/wall/default.png</path>
 <path>./art/sistemas/wall/${system.theme}.png</path>
