@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-Peso Del Tema 992,374,817 bytes
+Peso Del Tema 990,543,789 bytes
 
 -->
 
@@ -82,6 +82,14 @@ Peso Del Tema 992,374,817 bytes
 <include name="RULETA LEFT">./art/sistemas/systemview/ruletaleft.xml</include>
 <include name="DVD">./art/sistemas/systemview/dvd.xml</include>
 <include name="VERTICAL IZQUIERDA">./art/sistemas/systemview/verticalizquierda.xml</include>
+
+<include name="ESTILO 1">./art/sistemas/systemview/estilo1.xml</include>
+<include name="HORIZONTAL 2">./art/sistemas/systemview/horizontal2.xml</include>
+<include name="ANIMACION 3 CAPAS">./art/sistemas/systemview/3capas.xml</include>
+<include name="CIRCULO">./art/sistemas/systemview/circulo.xml</include>
+<include name="SIMPLE">./art/sistemas/systemview/simple.xml</include>
+
+
 <include name="-ONLY VERTICAL SCREEN-">./art/sistemas/systemview/onlyverticalscreen.xml</include>
 </subset>
 
@@ -175,9 +183,9 @@ Peso Del Tema 992,374,817 bytes
 <menuText name="menutext">
 <fontPath>./art/sistemas/fuentes/dash_dot_square-7.ttf</fontPath>
 <fontSize>0.020</fontSize>
-<color>ffffff</color>
-<separatorColor>cecdcf</separatorColor>
-<selectorColor>e4e4e3</selectorColor>
+<color>000000</color>
+<separatorColor>000000</separatorColor>
+<selectorColor>00a9ff</selectorColor>
 <selectorColorEnd>838284</selectorColorEnd>
 <selectedColor>000000</selectedColor>
 <selectorGradientType>horizontal</selectorGradientType>
@@ -186,7 +194,7 @@ Peso Del Tema 992,374,817 bytes
 <menuTextSmall name="menutextsmall">
 <fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
 <fontSize>0.02</fontSize>
-<color>24c6dd</color>
+<color>ffffff</color>
 </menuTextSmall>
 
 <menuBackground name="menubg">
@@ -264,6 +272,15 @@ Peso Del Tema 992,374,817 bytes
 <include name="DVD">./art/sistemas/vista-lista-juegos/dvd.xml</include>
 <include name="VERTICAL IZQUIERDA">./art/sistemas/vista-lista-juegos/verticalizquierda.xml</include>
 <include name="-ONLY VERTICAL SCREEN-">./art/sistemas/vista-lista-juegos/onlyverticalscreen.xml</include>
+
+
+<include name="MULTICOLOR">./art/sistemas/vista-lista-juegos/multicolor.xml</include>
+<include name="ANIMACION 3 CAPAS">./art/sistemas/vista-lista-juegos/trescapas.xml</include>
+<include name="CIRCULO">./art/sistemas/vista-lista-juegos/circulo.xml</include>
+<include name="HORIZONTAL">./art/sistemas/vista-lista-juegos/horizontal2.xml</include>
+<include name="SIMPLE">./art/sistemas/vista-lista-juegos/simple.xml</include>
+
+
 </theme>
 
 

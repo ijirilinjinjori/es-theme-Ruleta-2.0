@@ -200,6 +200,7 @@
 <storyboard repeat="1">
 <animation property="opacity" from="0.75" to="0" begin="95" duration="800" mode="EaseOut"/>
 <animation property="scale" from="1.55" to="1.9" begin="95" duration="1000" mode="EaseOut"/>
+<animation property="scale" from="1.9" to="0" begin="1000" duration="1000" mode="EaseOut"/>
 </storyboard>
 </image>
 
@@ -217,6 +218,7 @@
 <storyboard repeat="1">
 <animation property="opacity" from="0.75" to="0" begin="499" duration="1500" mode="EaseOut"/>
 <animation property="scale" from="1.55" to="1.9" begin="499" duration="1500" mode="EaseOut"/>
+<animation property="scale" from="1.9" to="0" begin="1000" duration="1000" mode="EaseOut"/>
 </storyboard>
 </image>
 
