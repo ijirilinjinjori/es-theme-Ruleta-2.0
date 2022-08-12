@@ -9,13 +9,22 @@
 #
 ➠ SE PUEDE ELEGIR 3 TIPOS DE WALLPAPER, NORMAL, BLUR, ACII.
 #
-⬌ PESO DEL TEMA (992,374,817 bytes).
+⬌ PESO DEL TEMA (990,543,789 bytes).
 #
 ⬌ TEMA DE LIBRE USO.
 #
 ⇹⇹⇹ TEMA SOLO PARA RESOLUCION DE 1080P (16:9) ⇹⇹⇹
 #
 ➠ CAPTURAS DE LAS DIFERENTES VISTAS.
+#
+
+NUEVAS VISTAS.
+![Captura de pantalla 2022-08-11 a la(s) 18 57 24](https://user-images.githubusercontent.com/109578297/184262284-2bf3dbae-93fd-480a-bfc9-a086b6edcea8.png)
+![Captura de pantalla 2022-08-11 a la(s) 18 57 47](https://user-images.githubusercontent.com/109578297/184262308-d551c8cb-4b64-4eb8-a8dc-0e326cf96af0.png)
+![Captura de pantalla 2022-08-11 a la(s) 18 59 58](https://user-images.githubusercontent.com/109578297/184262329-3c0dbdd1-3fd9-4be8-9c3f-747459289dee.png)
+![Captura de pantalla 2022-08-11 a la(s) 19 06 20](https://user-images.githubusercontent.com/109578297/184262346-3a9fdeb5-a584-48b2-bea6-b66c8a85bb68.png)
+![Captura de pantalla 2022-08-11 a la(s) 19 07 01](https://user-images.githubusercontent.com/109578297/184262364-86080f5e-4cdb-43db-935a-6dd6b710f1b2.png)
+
 #
 SE AGREGO NUEVA VISTA.
 ![Captura de pantalla 2022-07-26 a la(s) 15 49 12](https://user-images.githubusercontent.com/109578297/181167025-85ace243-3a5a-4971-9141-6533c7acb21d.png)
