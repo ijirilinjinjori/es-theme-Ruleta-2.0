@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-Peso Del Tema 990,543,789 bytes
+Peso Del Tema 1,075,962,773 bytes (1.1 GB en el disco)
 
 -->
 
@@ -88,8 +88,8 @@ Peso Del Tema 990,543,789 bytes
 <include name="ANIMACION 3 CAPAS">./art/sistemas/systemview/3capas.xml</include>
 <include name="CIRCULO">./art/sistemas/systemview/circulo.xml</include>
 <include name="SIMPLE">./art/sistemas/systemview/simple.xml</include>
-
-
+<include name="JOYPAD 3 LOGOS">./art/sistemas/systemview/joypad.xml</include>
+<include name="JOYPAD 5 LOGOS">./art/sistemas/systemview/joypad5logos.xml</include>
 <include name="-ONLY VERTICAL SCREEN-">./art/sistemas/systemview/onlyverticalscreen.xml</include>
 </subset>
 
@@ -183,11 +183,11 @@ Peso Del Tema 990,543,789 bytes
 <menuText name="menutext">
 <fontPath>./art/sistemas/fuentes/dash_dot_square-7.ttf</fontPath>
 <fontSize>0.020</fontSize>
-<color>000000</color>
-<separatorColor>000000</separatorColor>
-<selectorColor>00a9ff</selectorColor>
-<selectorColorEnd>838284</selectorColorEnd>
-<selectedColor>000000</selectedColor>
+<color>ffffff</color>
+<separatorColor>817f7f</separatorColor>
+<selectorColor>7f7c7c</selectorColor>
+<selectorColorEnd>464444</selectorColorEnd>
+<selectedColor>ffffff</selectedColor>
 <selectorGradientType>horizontal</selectorGradientType>
 </menuText>
 
