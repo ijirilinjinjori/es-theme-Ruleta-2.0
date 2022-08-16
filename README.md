@@ -17,7 +17,7 @@
 #
 ➠ CAPTURAS DE LAS DIFERENTES VISTAS.
 #
-![muestra](https://user-images.githubusercontent.com/109578297/184519639-bc0fab68-44b8-4182-8309-1fc87acc8c44.png)
+
 
 VISTA AGREGADA. CON LOGOS JOYPADS
 ![1](https://user-images.githubusercontent.com/109578297/184516936-3d856d60-4bbf-4c33-a140-c6cd57edde81.png)
