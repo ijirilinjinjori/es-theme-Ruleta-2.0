@@ -9,13 +9,19 @@
 #
 ➠ SE PUEDE ELEGIR 3 TIPOS DE WALLPAPER, NORMAL, BLUR, ACII.
 #
-⬌ PESO DEL TEMA (990,543,789 bytes).
+⬌ PESO DEL TEMA (1,075,962,796 bytes (1.1 GB en el disco).
 #
 ⬌ TEMA DE LIBRE USO.
 #
 ⇹⇹⇹ TEMA SOLO PARA RESOLUCION DE 1080P (16:9) ⇹⇹⇹
 #
 ➠ CAPTURAS DE LAS DIFERENTES VISTAS.
+#
+
+
+VISTA AGREGADA. CON LOGOS JOYPADS
+![1](https://user-images.githubusercontent.com/109578297/184516936-3d856d60-4bbf-4c33-a140-c6cd57edde81.png)
+![2](https://user-images.githubusercontent.com/109578297/184516945-e202e156-3af1-4d1d-8cd9-b26dbd25cfb4.png)
 #
 
 NUEVAS VISTAS.
