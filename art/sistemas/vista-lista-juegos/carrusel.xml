@@ -58,7 +58,7 @@
 <visible>true</visible>
 <color>ffffff</color>
 <pos>0.500 0.543</pos>   
-<size>0.140 0.468</size>
+<maxSize>0.140 0.468</maxSize>
 <origin>0.5 0.5</origin>
 <linearSmooth>true</linearSmooth>
 <zIndex>88</zIndex>
@@ -308,7 +308,7 @@
 <image name="md_marquee">
 <visible>true</visible>
 <pos>0.500 0.082</pos>
-<maxSize>0.159 0.160</maxSize>
+<maxSize>0.159 0.360</maxSize>
 <linearSmooth>true</linearSmooth>
 <zIndex>195</zIndex>
 <storyboard event="open">

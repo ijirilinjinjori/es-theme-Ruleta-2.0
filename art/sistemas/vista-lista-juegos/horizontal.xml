@@ -449,10 +449,10 @@
 <color>ffffff</color>
 <origin>0.5 0.5</origin>
 <pos>0.500 0.450</pos>
-<size>0.220 0.056</size>
+<maxSize>0.280 0.230</maxSize>
 <linearSmooth>true</linearSmooth>
 <zIndex>120</zIndex>
-<storyboard event="open"  repeat="1">
+<storyboard  event="open" repeat="1">
 <animation property="opacity" from="0" to="0" duration="250" mode="easeIn"/>
 <animation property="opacity" from="0" to="1" duration="400" mode="easeIn" begin="250"/>
 <animation property="rotation" from="0" to="360" begin="0" duration="1000" mode="Bump" repeat="1"/>

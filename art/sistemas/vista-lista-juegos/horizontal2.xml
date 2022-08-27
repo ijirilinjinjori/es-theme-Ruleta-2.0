@@ -442,7 +442,7 @@
 <color>ffffff</color>
 <origin>0.5 0.5</origin>
 <pos>0.510 0.150</pos>
-<size>0.220 0.056</size>
+<maxSize>0.220 0.300</maxSize>
 <linearSmooth>true</linearSmooth>
 <zIndex>120</zIndex>
 <storyboard event="open" repeat="1">

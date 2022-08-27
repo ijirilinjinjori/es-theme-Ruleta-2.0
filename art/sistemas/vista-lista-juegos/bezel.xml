@@ -253,7 +253,7 @@
 <color>ffffff90</color>
 <origin>0.5 0.5</origin>
 <pos>0.875 0.505</pos>
-<size>0.227 0.060</size>
+<maxSize>0.2265 0.299</maxSize>
 <linearSmooth>true</linearSmooth>
 <zIndex>195</zIndex>
 <storyboard event="open" repeat="1">
